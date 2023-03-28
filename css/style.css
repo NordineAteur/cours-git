@@ -2,3 +2,10 @@ h1{
     color: gold;
     background-color: red;
 }
+ul li:hover{
+    background-color: aqua;
+}
+
+body {
+    background-color: black;
+}
