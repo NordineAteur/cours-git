@@ -5,3 +5,7 @@ h1{
 ul li:hover{
     background-color: aqua;
 }
+
+body {
+    background-color: black;
+}
