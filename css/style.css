@@ -1,8 +1,4 @@
 h1{
-<<<<<<< HEAD
-    color: blue;
-    background-color: orange;
-=======
     color: gold;
     background-color: red;
 }
@@ -12,5 +8,4 @@ ul li:hover{
 
 body {
     background-color: black;
->>>>>>> eeaa956f181fdc8a6db4eb44e64b1593b79fd4d1
 }
