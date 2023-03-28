@@ -1,0 +1,86 @@
+[33mcommit 18a5c7a6c34933312c3e08624cb4c93826911236[m[33m ([m[1;36mHEAD -> [m[1;32mTomDV[m[33m)[m
+Merge: 9d37ddb b56f1b3
+Author: hamerlock <tom-remili@hotmail.fr>
+Date:   Tue Mar 28 12:01:58 2023 +0200
+
+    Merge remote-tracking branch 'origin/develop' into TomDV
+
+[33mcommit b56f1b3fc93e16850a91c30fdff7f95c31960208[m[33m ([m[1;31morigin/develop[m[33m)[m
+Author: NordineAteur <nordine.ateur@toolbox.ovh>
+Date:   Tue Mar 28 11:07:59 2023 +0200
+
+    d4. suppression page.html
+
+[33mcommit fef2a930fcfd5da9855bd6323db354da1c370fd7[m
+Author: NordineAteur <nordine.ateur@toolbox.ovh>
+Date:   Tue Mar 28 09:58:59 2023 +0200
+
+    d3. ajout dossier src
+
+[33mcommit 9d37ddbaedf5bf9d44530dcc3a1b58ee69166e3e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/TomDV[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 3875910 415e7c1
+Author: NordineAteur <nordine.ateur@toolbox.ovh>
+Date:   Mon Mar 27 16:49:38 2023 +0200
+
+    Merge branch 'develop'
+
+[33mcommit 38759107c2eb84366d10570dfbf98048dd444fc9[m
+Author: NordineAteur <nordine.ateur@toolbox.ovh>
+Date:   Mon Mar 27 16:34:46 2023 +0200
+
+    8. ajout balise script
+
+[33mcommit 415e7c155255907f13d2f1f268da52a4b5a1fc7d[m
+Author: NordineAteur <nordine.ateur@toolbox.ovh>
+Date:   Mon Mar 27 16:26:20 2023 +0200
+
+    d2. dossier js
+
+[33mcommit 1ebb1cd56e741a5e34f1db9bf0377238f83a9277[m
+Author: NordineAteur <nordine.ateur@toolbox.ovh>
+Date:   Mon Mar 27 16:23:54 2023 +0200
+
+    d1. js
+
+[33mcommit 41f275707d76b89a52216842fed8a24cc33acc15[m
+Author: NordineAteur <129066344+NordineAteur@users.noreply.github.com>
+Date:   Mon Mar 27 16:12:22 2023 +0200
+
+    Create README.md
+
+[33mcommit 38c42aca1e50e3fce034f9a8dbee609e109fa675[m
+Author: NordineAteur <nordine.ateur@toolbox.ovh>
+Date:   Mon Mar 27 14:49:08 2023 +0200
+
+    modif style h1
+
+[33mcommit 27143ea4c3ca338a0084fddba7bff9537ca67373[m
+Author: web-2dev <ded.developpeur.web@gmail.com>
+Date:   Mon Mar 27 12:25:38 2023 +0200
+
+    5. modification du fichier gitignore
+
+[33mcommit 75b34f476bce0660024c519c7d8b553b46fd5851[m
+Author: web-2dev <ded.developpeur.web@gmail.com>
+Date:   Mon Mar 27 12:20:43 2023 +0200
+
+    4. gitignore
+
+[33mcommit 3c19ff3fd3aef4e9f327e662a39acce5795724d4[m
+Author: web-2dev <ded.developpeur.web@gmail.com>
+Date:   Mon Mar 27 12:07:23 2023 +0200
+
+    3. ajout git.css
+
+[33mcommit 409d2d8fcc9417702d4572f36c2beda4310f7479[m
+Author: web-2dev <ded.developpeur.web@gmail.com>
+Date:   Mon Mar 27 11:53:17 2023 +0200
+
+    modif index.html
+    ajout css/style.css
+
+[33mcommit 89a8b5756dbe36dba4ab848f20fcdfbe7707b6ba[m
+Author: web-2dev <ded.developpeur.web@gmail.com>
+Date:   Mon Mar 27 10:42:44 2023 +0200
+
+    1ère sauvegarde
