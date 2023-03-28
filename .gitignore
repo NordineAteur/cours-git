@@ -1,3 +1,5 @@
 doc*
 dv
 test*
+# IDE folders
+.idea/
